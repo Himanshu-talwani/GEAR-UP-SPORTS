@@ -1,2 +1,1 @@
-mkdir admin
-echo "Hello" > admin/category.php
+
